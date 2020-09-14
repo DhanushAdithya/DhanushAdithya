@@ -1,0 +1,18 @@
+{
+	"name": "dhanushadithya",
+	"version": "1.0.0",
+	"description": "<!--\r **DhanushAdithya/DhanushAdithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+	"main": "index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/DhanushAdithya/DhanushAdithya.git"
+	},
+	"keywords": [],
+	"author": "DhanushAdithya",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/DhanushAdithya/DhanushAdithya/issues"
+	},
+	"homepage": "https://github.com/DhanushAdithya/DhanushAdithya#readme"
+}
