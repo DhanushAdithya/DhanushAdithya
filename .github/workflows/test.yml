@@ -1,0 +1,6 @@
+# test workflow file
+
+name: test
+on:
+	schedule:
+		- cron: '0 0 * * *'
